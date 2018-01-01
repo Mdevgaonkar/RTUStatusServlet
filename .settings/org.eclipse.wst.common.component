@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="servlet-DB-connect">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="servlet-DB-connect"/>
+        <property name="java-output-path" value="/servlet-DB-connect/build/classes"/>
+    </wb-module>
+</project-modules>
